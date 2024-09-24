@@ -1,0 +1,18 @@
+*-**-*-
+Nombres: luid
+Apellidos: sanchez
+Telefono: 745321
+Estatura: 123
+Edad: 156
+*-**-*-
+Nombres: luis
+Apellidos: sanchez
+Telefono: 9192056807
+Estatura: 160
+Edad: 19
+*-**-*-
+Nombres: Mimi
+Apellidos: Trejo 
+Telefono: 9613357248
+Estatura: 1.60
+Edad: 19
